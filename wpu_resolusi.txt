@@ -2,6 +2,6 @@ wpu_resolusi
 -konsisten membuat konten 2 X seminggu
 -membuat platform untuk pengelolahan video
 -membuat forum diskusi
-
+-menmabhkan konseptual struktur data
 -kolaborasi dengan lebih banyak expert
 -membuat vlog
